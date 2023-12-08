@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaushik Das</h1>
+<h1 align="center">Hi 👋, I'm Koushik Das</h1>
 <h3 align="center">A passionate App developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikdas9&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikdas9" /> </p>
